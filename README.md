@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AnaJessica15
+- 👋 Hi, I’m Ana Jessica
 - 👀 I’m interested in coding, keeping up with new technologies, and exploring AI. 
-- 🌱 I’m currently learning web designing (frontend development)
-- 💞️ I’m looking to forward to excel in frontend, backend and machine learning.
-- 📫 LinkedIn Profile: www.linkedin.com/in/ana-jessica-9a7bb520a
+- 🌱 I’m currently working on web designing (frontend development), machine learning and cloud computing.
+- 📫 Personal: https://ana-jessica.herokuapp.com/
 
 <!---
 AnaJessica15/AnaJessica15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
