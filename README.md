@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ana Jessica
 - 👀 I’m interested in coding, keeping up with new technologies, and exploring AI. 
-- 🌱 I’m currently working on web designing (frontend development), machine learning and cloud computing.
+- 🌱 I’m currently working on data analysis, machine learning and cloud computing.
 - 📫 LinkedIn: https://www.linkedin.com/in/ana-jessica15/
 
 <!---
