@@ -2,7 +2,7 @@
 Undergrad | Full Stack Web Developer | ML Enthusiast
 
 <a href="https://www.linkedin.com/in/ana-jessica15/" target="_blank"><img align="left" alt="Ana Jessica | LinkedIn" width="22px" src="https://github.com/AnaJessica15/ana/blob/main/static/images/linkedin.svg" />
-<a href="https://medium.com/@anajessica15022002" target="_blank"><img align="left" alt="Ana Jessica | Medium" width="22px" src="hhttps://github.com/AnaJessica15/ana/blob/main/static/images/medium.svg" />
+<a href="https://medium.com/@anajessica15022002" target="_blank"><img align="left" alt="Ana Jessica | Medium" width="22px" src="https://github.com/AnaJessica15/ana/blob/main/static/images/medium.svg" />
 
 
 <!---
