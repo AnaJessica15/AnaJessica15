@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Ana Jessica
-- 👀 I’m interested in coding, keeping up with new technologies, and exploring AI. 
-- 🌱 I’m currently working on data analysis, machine learning and cloud computing.
-- 📫 LinkedIn: https://www.linkedin.com/in/ana-jessica15/
+## Heyy, I'm <a href="https://ana-jessica.onrender.com/" target="_blank">Ana Jessica</a>!
+Undergrad | Full Stack Web Developer | ML Enthusiast
+
+<a href="https://www.linkedin.com/in/ana-jessica15/" target="_blank"><img align="left" alt="Ana Jessica | LinkedIn" width="22px" src="https://github.com/AnaJessica15/ana/blob/main/static/images/linkedin.svg" />
+<a href="https://medium.com/@anajessica15022002" target="_blank"><img align="left" alt="Ana Jessica | Medium" width="22px" src="hhttps://github.com/AnaJessica15/ana/blob/main/static/images/medium.svg" />
+
 
 <!---
 AnaJessica15/AnaJessica15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
